@@ -1,4 +1,4 @@
-# Assignment 1 - FandangoClone
+Fandango Clone
 
 
 ## User Stories
